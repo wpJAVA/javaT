@@ -10,6 +10,6 @@ public class Main {
     }
 
     public static void test2() {
-        System.out.println("123ttttt1321");
+        System.out.println("123t232tttt1321");
     }
 }
