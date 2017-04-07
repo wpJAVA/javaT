@@ -6,7 +6,7 @@ public class Main {
 
 
     public static void test1() {
-        System.out.println("1231322222221");
+        System.out.println("00001231322222221");
     }
 
     public static void test2() {
